@@ -1,6 +1,6 @@
 # LearnC
 
-本项目是记录自己在学习C语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的熟练使用C语言，尽可能的深入理解C语言。学习C语言，面向人民币编程！作者：[0e0w](https://github.com/0e0w/LearnC)。
+本项目是记录自己在学习C语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的熟练使用C语言，尽可能的深入理解C语言。学习C语言，面向机器编程！作者：[0e0w](https://github.com/0e0w/LearnC)。
 
 关于C语言的学习教程，可以参考[《365天深入理解C语言》](https://github.com/0e0w/365C)。
 
@@ -21,6 +21,17 @@
 - https://github.com/fffaraz/awesome-cpp
 
 一、基础书籍
+
+- [ ] [《C Primer Plus》](https://item.jd.com/12627795.html)@姜佑译
+- [ ] [《C程序设计语言》](https://item.jd.com/12580612.html)@徐宝文译
+- [ ] [《C语言程序设计：现代方法》](https://item.jd.com/10064146.html)@吕秀锋译
+- [ ] [《C程序设计（第四版）》]()@谭浩强
+- [ ] [《C程序设计（第五版）》]()@谭浩强
+- [ ] [《啊哈C语言！逻辑的挑战》](https://item.jd.com/12106072.html)@啊哈磊
+- [ ] [《C语言趣味编程100例》](https://item.jd.com/1072414009.html)@贾蓓
+- [ ] [《C专家编程》](https://item.jd.com/12976420.html)@徐波译
+- [ ] [《C和指针》](https://item.jd.com/12956672.html)@徐波译
+- [ ] [《C陷阱与缺陷》](https://item.jd.com/12970606.html)@高巍译
 
 二、视频教程
 
