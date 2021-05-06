@@ -22,6 +22,7 @@
 
 一、基础书籍
 
+- [ ] [《C语言入门教程》](http://c.biancheng.net/c/)@编程网
 - [ ] [《C Primer Plus》](https://item.jd.com/12627795.html)@姜佑译
 - [ ] [《C程序设计语言》](https://item.jd.com/12580612.html)@徐宝文译
 - [ ] [《C语言程序设计：现代方法》](https://item.jd.com/10064146.html)@吕秀锋译
@@ -44,6 +45,8 @@
 六、论坛版块
 
 七、其他资源
+
+- [ ] https://github.com/AngelMonica126/GraphicAlgorithm
 
 ## 0x02-C语言标准
 
