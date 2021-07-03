@@ -4,7 +4,7 @@
 
 关于C语言的学习教程，可以参考[《365天深入理解C语言》](https://github.com/0e0w/365C)。
 
-本项目创建于2021年5月5日，最近一次更新时间为2021年5月16日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年5月5日，最近一次更新时间为2021年7月3日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-C语言资源]()
 - [0x02-C语言标准]()
@@ -21,7 +21,6 @@
 - https://github.com/fffaraz/awesome-cpp
 
 一、基础书籍
-
 - [ ] [《C语言入门教程》](http://c.biancheng.net/c/)@编程网
 - [ ] [《C Primer Plus》](https://item.jd.com/12627795.html)@姜佑译
 - [ ] [《C程序设计语言》](https://item.jd.com/12580612.html)@徐宝文译
@@ -120,6 +119,7 @@
 二十二、其他框架
 
 - [ ] https://github.com/Water-Melon/Melon
+- [ ] https://github.com/fabianofurtado/libcpf
 
 ## 0x04-C语言项目
 
@@ -219,6 +219,7 @@
 十一、蜜罐钓鱼
 
 十二、代码审计
+- [ ] https://github.com/client9/libinjection
 
 十三、应急响应
 
