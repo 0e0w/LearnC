@@ -4,7 +4,7 @@
 
 关于C语言的学习教程，可以参考[《365天深入理解C语言》](https://github.com/0e0w/365C)。
 
-本项目创建于2021年5月5日，最近一次更新时间为2021年7月3日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年5月5日，最近一次更新时间为2021年7月28日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-C语言资源]()
 - [0x02-C语言标准]()
@@ -18,7 +18,6 @@
 
 - https://github.com/0e0w/LearnC
 - https://github.com/oz123/awesome-c
-- https://github.com/fffaraz/awesome-cpp
 
 一、基础书籍
 - [ ] [《C语言入门教程》](http://c.biancheng.net/c/)@编程网
@@ -207,6 +206,9 @@
 八、病毒免杀
 
 - https://github.com/search?l=c&q=shellcode
+
+- [ ] https://github.com/Screetsec/TheFatRat
+- [ ] https://github.com/cribdragg3r/Alaris
 
 九、代理隧道
 
