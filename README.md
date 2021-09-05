@@ -4,7 +4,7 @@
 
 关于C语言的学习教程，可以参考[《365天深入理解C语言》](https://github.com/0e0w/365C)。
 
-本项目创建于2021年5月5日，最近一次更新时间为2021年7月31日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年5月5日，最近一次更新时间为2021年9月5日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-C语言资源]()
 - [0x02-C语言标准]()
@@ -37,7 +37,6 @@
 三、算法学习
 
 四、编译工具
-
 - [ ] MinGW
 
 五、英文资源
@@ -45,9 +44,9 @@
 六、论坛版块
 
 七、其他资源
-
 - [ ] https://github.com/AngelMonica126/GraphicAlgorithm
 - [ ] https://github.com/yifengyou/learn-c
+- [ ] https://github.com/wangdoc/clang-tutorial
 
 ## 0x02-C语言标准
 
@@ -117,7 +116,6 @@
 十一、时间日期
 
 二十二、其他框架
-
 - [ ] https://github.com/Water-Melon/Melon
 - [ ] https://github.com/fabianofurtado/libcpf
 
@@ -153,7 +151,6 @@
 -  https://github.com/topics/vulnerability-scanner?l=c
 
 一、域名扫描
-
 -  https://github.com/topics/subdomain?l=c
 -  https://github.com/topics/subdomains?l=c
 -  https://github.com/topics/subdomain-scanner?l=c
@@ -161,7 +158,6 @@
 -  https://github.com/search?l=c&q=domains
 
 二、端口扫描
-
 -  https://github.com/topics/portscan?l=c
 -  https://github.com/topics/portscanner?l=c
 -  https://github.com/search?l=c&q=portscan
@@ -172,7 +168,6 @@
 三、资产扫描
 
 四、漏洞扫描
-
 -  https://github.com/topics/pentesting?l=c
 -  https://github.com/topics/security?l=c
 -  https://github.com/topics/hacking?l=c
@@ -183,14 +178,12 @@
 -  https://github.com/topics/vulnerability-scanner?l=c
 
 五、密码爆破
-
 -  https://github.com/topics/bruteforce?l=c
 -  https://github.com/topics/brute-force?l=c
 -  https://github.com/topics/brute-force-attacks?l=c
 -  https://github.com/search?l=c&q=bruteforce
 
 六、路径扫描
-
 -  https://github.com/topics/fuzzer?l=c
 -  https://github.com/topics/fuzzing?l=c
 -  https://github.com/topics/fuzz?l=c
@@ -198,21 +191,18 @@
 -  https://github.com/topics/webscan?l=c
 
 七、Web安全
-
 -  https://github.com/topics/xss?l=c
 -  https://github.com/topics/ssrf?l=c
 -  https://github.com/topics/rce?l=c
 -  https://github.com/topics/sql-injection?l=c
 
 八、病毒免杀
-
 - https://github.com/search?l=c&q=shellcode
 - [ ] https://github.com/Screetsec/TheFatRat
 - [ ] https://github.com/cribdragg3r/Alaris
 - [ ] https://github.com/Mr-Un1k0d3r/Shellcoding
 
 九、代理隧道
-
 -  https://github.com/topics/proxy?l=c
 -  https://github.com/topics/tunnel?l=c
 -  https://github.com/topics/reverse-proxy?l=g
@@ -231,7 +221,6 @@
 十五、漏洞赏金
 
 十六、其他项目
-
 - [ ] https://github.com/haidragon/study_obscure
 
 ## 0x06-C语言逆向
@@ -239,7 +228,6 @@
 一、C代码混淆
 
 二、逆向C程序
-
 - [ ] https://github.com/anyaschukin/OverRide
 
 三、使用C逆向
